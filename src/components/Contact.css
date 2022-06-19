@@ -1,0 +1,22 @@
+.contact {
+    width: 30%;
+    height: 150px;
+    background-color: #FFCC8F;
+    padding: 25px 15px;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+.contact-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.contact-name {
+    font-weight: bold;
+}

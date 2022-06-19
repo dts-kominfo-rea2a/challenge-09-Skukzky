@@ -1,4 +1,9 @@
 .App {
+  display: grid;
+  place-items: center;
+}
+
+body {
+  background-color: #FFDAAF;
   text-align: center;
-  display: flex;
 }

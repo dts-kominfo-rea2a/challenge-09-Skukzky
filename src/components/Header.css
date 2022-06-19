@@ -1,0 +1,12 @@
+.header {
+  padding: 5px;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  width: 50%;
+  border-radius: 20px;
+}
+
+.border {
+  border-bottom: 4px dotted #ff8080;
+}
